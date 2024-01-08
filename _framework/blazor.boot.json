@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Vartovy.Email.TestUI",
   "resources": {
-    "hash": "sha256-MUsRkr/IFP3a86snQmUvorBLMt/I21U6vVdZ5TJDVLU=",
+    "hash": "sha256-rME6z2pJRik8g2uef4fbOr07VfM8G0C9umJ2VuSQjEY=",
     "jsModuleNative": {
       "dotnet.native.8.0.0.lddrod6gp4.js": "sha256-lCZIWWraj28SzbL/4ubyA9dZ+gpcx7hO1f/iKczVOEg="
     },
@@ -95,8 +95,8 @@
       "System.wasm": "sha256-42a4+5LjOVNJZ9qrtuq44hJuXPS03tHmXb7Kauk7pEg=",
       "System.Web.HttpUtility.wasm": "sha256-hTvlIzeMsDFDNzWX7qraTShNe5hpXdmFYMA8vjlrJQw=",
       "System.Xml.Linq.wasm": "sha256-GWFwZbLHxhganNs3G9GJMiuMxZ+GJwv4j+F7g493lik=",
-      "Vartovy.Email.TestUI.wasm": "sha256-4u5sW9djLgEVDsldVKOhcpLFaBT537+hCutboOdfN3k=",
-      "Vartovy.Email.wasm": "sha256-pRBobxpLedxF/apbMMU2Sotnoot2uouRLKax92VafXU="
+      "Vartovy.Email.TestUI.wasm": "sha256-Mrc+eNB+VbgvYyGt48eiJ7Vk2FnnzADrY7aqkcMueGw=",
+      "Vartovy.Email.wasm": "sha256-op90ndkJo5+46DobVUvhgFhprpsej97V1Yg7J4hpiQo="
     }
   },
   "cacheBootResources": true,
